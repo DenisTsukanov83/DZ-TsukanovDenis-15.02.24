@@ -1,6 +1,7 @@
 {
   "name": "dz-tsukanovdenis-15.02.24",
   "version": "0.1.0",
+  "homepage": "https://DenisTsukanov83.github.io/dz-tsukanovdenis-15.02.24",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
