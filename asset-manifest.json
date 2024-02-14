@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dz-tsukanovdenis-15.02.24/static/css/main.cdd2ce01.css",
+    "main.js": "/dz-tsukanovdenis-15.02.24/static/js/main.1db6349a.js",
+    "index.html": "/dz-tsukanovdenis-15.02.24/index.html",
+    "main.cdd2ce01.css.map": "/dz-tsukanovdenis-15.02.24/static/css/main.cdd2ce01.css.map",
+    "main.1db6349a.js.map": "/dz-tsukanovdenis-15.02.24/static/js/main.1db6349a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd2ce01.css",
+    "static/js/main.1db6349a.js"
+  ]
+}
