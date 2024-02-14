@@ -1,0 +1,21 @@
+h2 {
+    margin-top: 50px;
+}
+
+.container {
+    display: flex;
+    gap: 50px;
+    padding: 20px 50px;
+}
+
+.text {
+    width: 50%;
+}
+
+.photo {
+    width: 50%;
+}
+
+.photo img {
+    width: 100%;
+}

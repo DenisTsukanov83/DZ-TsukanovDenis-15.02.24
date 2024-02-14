@@ -1,24 +1,12 @@
 import './App.css';
+import Task1 from './Task1/Task1';
+import Task2 from './Task2/Task2';
 
 function App() {
   return (
     <div className="App">
-      <table>
-        <tbody>
-          <tr>
-            <td>Фамилия</td>
-            <td>Цуканов</td>
-          </tr>
-          <tr>
-            <td>Имя</td>
-            <td>Денис</td>
-          </tr>
-          <tr>
-            <td>Почта</td>
-            <td>tsukanovdenis83@yandex.ru</td>
-          </tr>
-        </tbody>
-      </table>
+      <Task1 />
+      <Task2 />
     </div>
   );
 }
